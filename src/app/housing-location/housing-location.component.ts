@@ -4,7 +4,7 @@ import { HousingLocation } from '../housinglocation';
 
 @Component({
   selector: 'app-housing-location',
-  imports: [Input, CommonModule],
+  imports: [],
   templateUrl: './housing-location.component.html',
   styleUrl: './housing-location.component.css'
 })
